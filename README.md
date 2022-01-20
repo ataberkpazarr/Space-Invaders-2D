@@ -1,6 +1,6 @@
 # space-invaders2D-ataberkpazarr
 
-Clone of space invaders game, main mechanic and gameplay implemented and done, it is possible to play a level and win it or game over. Extra features are not pushed yet. 
+Clone of space invaders game, main mechanic and gameplay implemented and done, it is possible to play a level and win it or game over. 
 
 Current version in a nutshell:
 
